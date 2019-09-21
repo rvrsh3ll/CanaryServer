@@ -1,0 +1,28 @@
+{
+	"sessions":[
+	{
+	"computername": "HQWKSTN02",
+	"username": "sean_connery",
+	"time": 890,
+	"idle_time": 24
+	},
+	{
+	"computername": "HQCITRIXSRV01",
+	"username": "will_smith",
+	"time": 1023,
+	"idle_time": 234
+	},
+	{
+	"computername": "HQCITRIXSRV01",
+	"username": "colin_firth",
+	"time": 3423,
+	"idle_time": 724
+	},
+	{
+	"computername": "HQCITRIXSRV01",
+	"username": "jennifer_anniston",
+	"time": 342,
+	"idle_time": 5
+	}
+	]
+}
